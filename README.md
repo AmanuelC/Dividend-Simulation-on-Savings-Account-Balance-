@@ -5,12 +5,15 @@ This program is meant to simulate your bank balance over an inputted amount of m
 This project demonstrates key programming capabilities, including:
 
 **Oject oriented programming**
+
 The Person Class is used to store the user's personal information, while the Savings Class is meant to store the user's banking information, including the Person Object that holds your personal information. 
 
 **Fantastic style**
+
 The code is very readible and easy to follow with the comments provided
  
 **Use of multiple programming languages**
+
 The program starts in C++, that is where the user runs and customizes their simulations. Python is run using command line arguments, to graph the user's simulation
 
 
